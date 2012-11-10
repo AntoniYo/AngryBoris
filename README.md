@@ -26,10 +26,10 @@ Not matter what you use fisrt,Magle or Pounce.
 They dont work together.
 
 Are you able to provide visual evidence?:
-
 I have some screenshots.
 http://www.imagebar.net/Hdf.jpg and 
 http://www.imagebar.net/Gdf.jpg
+
 External/Related Links:
 http://old.wowhead.com/spell=33876#see-also-ability "Mangle" and "pounce" http://old.wowhead.com/spell=9005/pounce#taught-by-npc
 
