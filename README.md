@@ -1,4 +1,4 @@
-Skill is not working correctly(pounce)Druid feral
+Druid feral cat! "Pounce"
 ==========
 
 Report ID: AntoniYo  
