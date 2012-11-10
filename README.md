@@ -31,7 +31,7 @@ http://www.imagebar.net/Hdf.jpg and
 http://www.imagebar.net/Gdf.jpg
 
 External/Related Links:
-http://old.wowhead.com/spell=33876#see-also-ability "Mangle" and "pounce" http://old.wowhead.com/spell=9005/pounce#taught-by-npc
+http://old.wowhead.com/spell=33876#see-also-ability "Mangle" and "Pounce" http://old.wowhead.com/spell=9005/pounce#taught-by-npc
 
 Please detail your character’s race, class, and items (optional):
 
