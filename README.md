@@ -34,4 +34,5 @@ External/Related Links:
 http://old.wowhead.com/spell=33876#see-also-ability "Mangle" and "pounce" http://old.wowhead.com/spell=9005/pounce#taught-by-npc
 
 Please detail your character’s race, class, and items (optional):
+
 Elf (male), Druid feral cat.
