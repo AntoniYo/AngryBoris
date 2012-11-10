@@ -1,4 +1,4 @@
-Druid feral cat! "Pounce"
+Not working skill "Pounce"
 ==========
 
 Report ID: AntoniYo  
