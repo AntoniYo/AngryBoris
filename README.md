@@ -1,15 +1,17 @@
 Skill is not working correctly(pounce)Druid feral
 ==========
 
-Report ID:AntoniYo  
+Report ID: AntoniYo  
 
-Reporter Name:AngryBoris
+Reporter Name: AngryBoris
 
 Date/Time:11/10/2012 - 17:35 PM
 
-Error Severity: Major
+Error Severity:
+Major
 
-Zone/Instance: Global
+Zone/Instance:
+Global
 
 What type of error occurred?:
 Skill  is not working correctly. "pounce" with "magle". 
@@ -21,10 +23,11 @@ Chain of use of the skills is no matter.
 
 Can the error be repeated? If so, what are the steps?:
 Not matter what you use fisrt,Magle or Pounce.
-They dont work together
+They dont work together.
+
 Are you able to provide visual evidence?:
-I have some screenshots. <img src="http://www.imagebar.net/Hdf.jpg" alt="With out Magle.jpg"/> and 
-<img src="http://www.imagebar.net/Gdf.jpg" alt="WoWScrnShot_111012_175615"/>
+I have some screenshots. [img]http://www.imagebar.net/Hdf.jpg[/img] and 
+[img]http://www.imagebar.net/Gdf.jpg[/img]
 External/Related Links:
 http://old.wowhead.com/spell=33876#see-also-ability "Mangle" and "pounce" http://old.wowhead.com/spell=9005/pounce#taught-by-npc
 Please detail your character’s race, class, and items (optional):
